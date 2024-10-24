@@ -1,0 +1,134 @@
+* {
+    padding: 0%;
+    margin: 0;
+    font-family: monospace;
+}
+
+.navbar .navlogo {
+    color: white;
+    text-align: center;
+    padding: 20px 50px;
+    background-color: #409245;
+    font-size: 240%;
+}
+.Background {
+    height: 50vh;
+    width: 100%;
+    background-image: url(Images/Camp\ Header.jpg);
+    background-size: cover;
+    background-position: center;
+    opacity: 95%;
+}
+
+.media {
+    height: 80%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.paket {
+    background-color: #4fa754;
+    padding: 20px 50px;
+    margin: 0;
+    text-align: center;
+}
+
+.jenis-tenda {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 30px;
+}    
+.tenda {
+    background-color: #c9dfca;
+    padding: 1.5em;
+    width: 200px;
+    text-align: center;
+}
+.tenda img {
+    max-width: 100%;
+    height: auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3)
+}
+
+table {
+    border-collapse: collapse;
+    font-size: 16px;
+    justify-content: center;
+    display: flex;
+}
+
+th, td {
+    border: 1.5px solid #409245;
+    text-align: center;
+    padding: 15px;
+}
+
+th {
+    background-color: #4fa754;
+}
+
+ul {
+    margin: 0;
+    padding-left: 20px;
+}
+
+.formulir {
+    border-color: #409245;
+    background-color: beige;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;   
+}
+
+.masukan input {
+    display: flex;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.masukan label {
+    text-align: left;
+    font-size: 14px;
+}
+
+.music {
+    display: flex;
+    justify-content: center; 
+    align-items: center;   
+    height: 40vh;   
+}
+
+footer {
+    background-color: #4fa754 ;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;
+    gap: 20px;
+}
+
+.footer-content div {
+    flex: 1;
+}
+
+.alamat {
+    font-size: 16px
+}
+
+iframe {
+    border: solid;
+    width: 100%;
+    max-width: 450px;
+    height: 300px;
+}
