@@ -1,0 +1,194 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: poppins;
+}
+
+/*Adidas Produk*/
+.title-adidas {
+    background-color: #4fa754;
+    padding: 15px 15px;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 24px;
+}
+.adidas {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 30px;
+} 
+.produk-adidas {
+    background-color: #c9dfca;
+    padding: 1.5em;
+    width: 200px;
+    text-align: center;
+}
+
+.produk-adidas img {
+    max-width: 100%;
+    height: auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3)
+}
+.produk-adidas h3 {
+    margin-top: 10px;
+}
+button {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
+button:hover {
+    background-color: #245a27;
+}   
+
+#adidas1 {
+    font-size: 16px;
+    margin-top: 10px;
+    text-align: justify;
+}
+#adidas2 {
+    font-size: 16px;
+    margin-top: 10px;
+    text-align: justify;
+}
+#adidas3 {
+    font-size: 16px;
+    margin-top: 10px;
+    text-align: justify;
+}
+#adidas4 {
+    font-size: 16px;
+    margin-top: 10px;
+    text-align: justify;
+}
+
+/*Nike Produk*/
+.title-nike {
+    background-color: #4fa754;
+    padding: 15px 15px;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 24px;
+}
+.nike {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 30px;
+} 
+.produk-nike {
+    background-color: #c9dfca;
+    padding: 1.5em;
+    width: 200px;
+    text-align: center;
+}
+
+.produk-nike img {
+    max-width: 100%;
+    height: auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3)
+}
+.produk-nike h3 {
+    margin-top: 10px;
+}
+button {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
+button:hover {
+    background-color: #245a27;
+}   
+
+#nike1 {
+    font-size: 16px;
+    margin-top: 10px;
+    text-align: justify;
+}
+#nike2 {
+    font-size: 16px;
+    margin-top: 10px;
+    text-align: justify;
+}
+#nike3 {
+    font-size: 16px;
+    margin-top: 10px;
+    text-align: justify;
+}
+#nike4 {
+    font-size: 16px;
+    margin-top: 10px;
+    text-align: justify;
+}
+
+/*Puma Produk*/
+.title-puma {
+    background-color: #4fa754;
+    padding: 15px 15px;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 24px;
+}
+.puma {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 30px;
+} 
+.produk-puma {
+    background-color: #c9dfca;
+    padding: 1.5em;
+    width: 200px;
+    text-align: center;
+}
+
+.produk-puma img {
+    max-width: 100%;
+    height: auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3)
+}
+.produk-puma h3 {
+    margin-top: 10px;
+}
+button {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
+button:hover {
+    background-color: #245a27;
+}   
+
+#puma1 {
+    font-size: 16px;
+    margin-top: 10px;
+    text-align: justify;
+}
+#puma2 {
+    font-size: 16px;
+    margin-top: 10px;
+    text-align: justify;
+}
+#puma3 {
+    font-size: 16px;
+    margin-top: 10px;
+    text-align: justify;
+}
+#puma4 {
+    font-size: 16px;
+    margin-top: 10px;
+    text-align: justify;
+}

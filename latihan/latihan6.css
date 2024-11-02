@@ -1,0 +1,48 @@
+.box-model {
+    width: 80px 80px;
+    padding: 35px;
+    border: 40px solid peachpuff;
+    margin: 60px;
+    background-color: antiquewhite;
+    text-align: justify;
+    position: relative;
+    
+}
+
+.outline p {
+    text-align: center;
+    margin: 10%;
+    color: rgb(78, 57, 57);
+    padding: 10px;
+    outline-style: dotted;
+    outline-color: cadetblue;
+    outline-width: 5px;
+    outline-offset: 10px;
+    background-color: beige;
+    font-family: Poppins;
+    font-size: 20px;
+    margin: 20px auto;
+    width: 90%;
+}
+
+.icons {
+    padding-top: 20px;
+   
+}
+.fa-brands.fa-instagram.fa-2x {
+    color: blue;
+}
+.fa-brands.fa-youtube.fa-2x {
+    color: brown;
+}
+.fa-brands.fa-tiktok.fa-2x {
+    color: brown;
+}
+.fa-brands.fa-square-x-twitter.fa-2x {
+    color: brown;
+}
+
+.li {
+    list-style-type: circle;
+    list-style-position: outside;
+}
